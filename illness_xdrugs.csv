@@ -1,0 +1,29 @@
+Illness,incompatible Drugs
+Bleeding disorders,"['Aspirin', 'Warfarin']"
+Stomach ulcers,"['Aspirin', 'Ibuprofen', 'Clopidogrel', 'Naproxen']"
+Kidney problems,"['Ibuprofen', 'Metformin', 'Lisinopril', 'Gabapentin', 'Naproxen']"
+Allergies,"['Penicillin', 'Amoxicillin', 'Omeprazole', 'Amoxicillin', 'Ranitidine', 'Esomeprazole']"
+Stroke,['Warfarin']
+Liver disease,"['Acetaminophen', 'Omeprazole', 'Simvastatin', 'Clopidogrel', 'Atorvastatin', 'Amlodipine', 'Ranitidine', 'Esomeprazole', 'Diltiazem']"
+Alcoholism,['Acetaminophen']
+Pregnancy,"['Simvastatin', 'Lisinopril', 'Atorvastatin']"
+Heart problems,"['Levothyroxine', 'Albuterol']"
+Thyroid cancer,['Levothyroxine']
+Infections,['Prednisone']
+Diabetes,['Prednisone']
+Heart failure,"['Metoprolol', 'Amlodipine', 'Diltiazem']"
+Bradycardia,['Metoprolol']
+Hypertension,['Albuterol']
+Bipolar disorder,"['Sertraline', 'Citalopram', 'Fluoxetine']"
+Seizure disorders,"['Sertraline', 'Citalopram', 'Fluoxetine', 'Metoclopramide']"
+Myasthenia gravis,['Ciprofloxacin']
+Tendonitis,['Ciprofloxacin']
+Respiratory depression,"['Gabapentin', 'Morphine', 'Hydrocodone', 'Tramadol', 'Lorazepam', 'Oxycodone']"
+Paralytic ileus,['Morphine']
+GI obstruction,['Hydrocodone']
+Kidney failure,['Furosemide']
+Dehydration,['Furosemide']
+Seizures,"['Tramadol', 'Oxycodone', 'Trazodone']"
+Glaucoma,['Lorazepam']
+Parkinson's disease,['Metoclopramide']
+Suicidal tendencies,['Trazodone']

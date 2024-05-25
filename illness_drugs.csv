@@ -1,0 +1,41 @@
+Illness,Compatible Drugs
+Headaches,"['Aspirin', 'Acetaminophen']"
+Fever,"['Aspirin', 'Acetaminophen']"
+Mild Pain,"['Aspirin', 'Acetaminophen']"
+Pain,"['Ibuprofen', 'Naproxen']"
+Inflammation,"['Ibuprofen', 'Prednisone', 'Naproxen']"
+Menstrual Cramps,['Ibuprofen']
+Bacterial infections,"['Penicillin', 'Amoxicillin', 'Ciprofloxacin', 'Amoxicillin']"
+Strep Throat,['Penicillin']
+Blood clots,['Warfarin']
+Atrial fibrillation,['Warfarin']
+Type 2 diabetes,['Metformin']
+Polycystic ovary syndrome,['Metformin']
+Ear infections,"['Amoxicillin', 'Amoxicillin']"
+Heartburn,"['Omeprazole', 'Ranitidine']"
+Gastric ulcers,"['Omeprazole', 'Esomeprazole']"
+High cholesterol,"['Simvastatin', 'Atorvastatin']"
+Atherosclerosis,"['Simvastatin', 'Atorvastatin']"
+Hypertension,"['Lisinopril', 'Metoprolol', 'Furosemide', 'Amlodipine', 'Diltiazem']"
+Heart failure,['Lisinopril']
+Hypothyroidism,['Levothyroxine']
+Autoimmune disorders,['Prednisone']
+Preventing blood clots,['Clopidogrel']
+Heart attack,['Clopidogrel']
+Angina,"['Metoprolol', 'Amlodipine', 'Diltiazem']"
+Asthma,['Albuterol']
+Bronchitis,['Albuterol']
+Depression,"['Sertraline', 'Citalopram', 'Fluoxetine', 'Trazodone']"
+Anxiety,"['Sertraline', 'Citalopram', 'Lorazepam']"
+UTI,['Ciprofloxacin']
+Neuropathic pain,['Gabapentin']
+Seizures,['Gabapentin']
+Severe pain,['Morphine']
+Cancer pain,['Morphine']
+Moderate to severe pain,"['Hydrocodone', 'Tramadol', 'Oxycodone']"
+Edema,['Furosemide']
+Insomnia,"['Lorazepam', 'Trazodone']"
+OCD,['Fluoxetine']
+GERD,"['Ranitidine', 'Esomeprazole']"
+Nausea,['Metoclopramide']
+Gastroparesis,['Metoclopramide']
